@@ -1,4 +1,4 @@
--# 👋 Hi, I’m Avan Singh
+# 👋 Hi, I’m Avan Singh
 - 👀 I’m interested in
 - 🌱 I’m currently learning Node.js React.js DSA
 - 💞️ I’m looking to collaborate on ...
