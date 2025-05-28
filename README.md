@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Avan Singh</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <span style="display:inline-block; animation: bounce 1s infinite;">Hi, I'm Avan Singh</span>
+</h1>
 <h3 align="center">Full Stack Developer | Competitive Programmer | Open Source Enthusiast</h3>
+
 
 
 
