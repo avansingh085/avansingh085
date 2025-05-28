@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on: **Open-source MERN stack projects and interesting startups**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/avansingh085/)** | **avansingh085@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I’ve solved over 1700+ DSA problems *
+- ⚡ *I’ve solved over 1700+ DSA problems *
 
 ---
 
