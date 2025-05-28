@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avan Singh</h1>
 <h3 align="center">Full Stack Developer | Competitive Programmer | Open Source Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/avansingh085">
-    <img src="https://komarev.com/ghpvc/?username=avansingh085&label=Profile%20views&color=0e75b6&style=flat" alt="avansingh085" />
-  </a>
-</p>
+
 
 ---
 
@@ -17,7 +13,7 @@
 - 💞️ I’m looking to collaborate on: **Open-source MERN stack projects and interesting startups**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/avansingh085/)** | **avansingh085@gmail.com**
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: *I’ve solved over 1700+ DSA problems and built several production-level apps from scratch!*
+- ⚡ Fun fact: *I’ve solved over 1700+ DSA problems *
 
 ---
 
@@ -53,14 +49,7 @@
 
 ---
 
-### 🚀 Featured Projects
 
-- 🎮 **[GameZone](https://github.com/avansingh085/gamezone)** – Discover, review & play games like Chess and Tic Tac Toe (AI & Multiplayer)
-- 💬 **[ChatsApp](https://github.com/avansingh085/chatsapp)** – Real-time chat with image/file sharing, video call & invite links
-- 🍔 **[Beks Kitchen](https://github.com/avansingh085/beks-kitchen)** – Food delivery web app with Razorpay payments & pagination
-- 📝 **[Markdown Notes App](https://github.com/avansingh085/markdown-notes)** – Offline-first notes with syncing
-
----
 
 ### 📫 Connect with Me
 
