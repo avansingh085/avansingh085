@@ -32,12 +32,12 @@ Here are a few projects that showcase my skills and problem-solving abilities.
 #### **Real-Time Chat Application**
 -   Engineered a real-time messaging platform with WebSocket integration and WebRTC for video calling.
 -   Optimized performance by **40%** through query parallelization and server-side caching.
--   **Live Demo:** [Link to your Vercel demo](https://chat-application-henna-iota.vercel.app/)
+-   **Live Demo:** [Live](https://chat-application-henna-iota.vercel.app/)
 
 
 #### **Multiplayer Game Portal**
 -   Created Chess and Tic-Tac-Toe with a **Minimax AI** and real-time multiplayer functionality using Socket.IO.
--   **Live Demo:** [Link to your Vercel demo](https://game-application-blond.vercel.app/)
+-   **Live Demo:** [Live](https://game-application-blond.vercel.app/)
 
 ---
 
