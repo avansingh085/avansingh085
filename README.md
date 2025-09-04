@@ -8,7 +8,7 @@
 
 I'm a passionate and results-driven **Full Stack Developer** with expertise in the **MERN stack**. My focus is on building scalable, efficient, and user-friendly web applications. I have a strong foundation in **Data Structures and Algorithms**, which I apply to solve complex problems and write optimized code.
 
--   **🔭 I'm currently working on:** Building a scalable property management system and real-time chat applications.
+-   **🔭 I'm currently working on:** Building a scalable  foodDelivery applications.
 -   **🌱 I'm continuously learning about:** Machine Learning, Distributed Systems, and Advanced Web Development.
 -   **💬 I can help with:** Full-stack development, competitive programming, and problem-solving.
 -   **🤝 I'm open to:** Collaborating on open-source projects and contributing to innovative tech startups.
