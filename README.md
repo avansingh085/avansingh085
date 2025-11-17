@@ -1,8 +1,8 @@
 # Hi there, I'm Avan Singh 👋
 
-### Full-Stack Developer | ###Competitive Programmer
+### Full-Stack Developer | Competitive Programmer
 
-I am a Full-Stack Developer (MERN) who thrives on solving complex challenges. My background in competitive programming provides me with a strong foundation in Data Structures, Algorithms, and System Optimization, which I leverage to build efficient, scalable, and robust web applications.**.
+I am a Full-Stack Developer (MERN) who thrives on solving complex challenges. My background in competitive programming provides me with a strong foundation in Data Structures, Algorithms, and System Optimization, which I leverage to build efficient, scalable, and robust web applications.
 
 My passion lies in solving complex problems, and I apply a deep understanding of **Data Structures, Algorithms, and System Optimization** to translate complex requirements into clean, user-friendly, and impactful code.
 
