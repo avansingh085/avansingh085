@@ -1,50 +1,66 @@
 # Hi there, I'm Avan Singh 👋
-### Full-Stack Developer & Competitive Programmer
 
-I'm a results-driven Full-Stack Developer specializing in the **MERN stack**. My passion lies in building scalable, efficient, and user-friendly web applications. With a strong foundation in **Data Structures & Algorithms**, I excel at solving complex problems and writing highly optimized code.
+### Full-Stack Developer & High-Performance Engineer
+
+I am a results-driven Full-Stack Developer (MERN) with a distinct background in high-performance Competitive Programming. I don't just build features; I **architect scalable, efficient, and high-performance web applications**.
+
+My passion lies in solving complex problems, and I apply a deep understanding of **Data Structures, Algorithms, and System Optimization** to translate complex requirements into clean, user-friendly, and impactful code.
+
+---
+
+### ⚡ Core Competencies
+
+* **Full-Stack Architecture:** Architecting end-to-end applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
+* **Algorithmic Problem Solving:** Proven analytical skills demonstrated by **Top 2% ranking on LeetCode** (2000+ problems).
+* **System Optimization:** Expertise in database query parallelization, advanced caching strategies, and writing efficient, low-latency code.
+* **Real-Time Systems:** Proficient in building interactive, stateful applications using WebSockets, Socket.IO, and WebRTC.
 
 ---
 
 ### 📬 Connect with Me
 
 [<img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>](https://www.linkedin.com/in/avansingh085)
+[<img src='https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>](https://github.com/avansingh085)
 [<img src='https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email'>](mailto:avansingh085@gmail.com)
 
 ---
 
-### 🛠️ My Tech Stack
+### 🛠️ My Technology Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | C++, JavaScript (ES6+), TypeScript |
-| **Frontend** | React.js, Redux, Tailwind CSS, HTML5, CSS3 |
-| **Backend** | Node.js, Express.js, Nest.js, RESTful APIs, WebSockets |
-| **Databases** | MongoDB, Redis, MySQL |
-| **Tools & Platforms** | Git, GitHub, Docker, AWS EC2, Postman, Joi |
+* **Languages:** C++, JavaScript (ES6+), TypeScript
+* **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3
+* **Backend:** Node.js, Express.js, Nest.js, RESTful APIs, WebSockets
+* **Databases:** MongoDB, Redis, MySQL
+* **Tools & Platforms:** Git, GitHub, Docker, AWS (EC2), Postman, Joi
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 1. Real-Time Chat Application
-A full-featured messaging platform built for performance and real-time interaction.
-* Engineered with **WebSocket** integration for instant messaging and **WebRTC** for video calling.
-* Achieved a **40% performance boost** through query parallelization and server-side caching.
+A high-throughput, low-latency messaging platform built for performance and real-time interaction.
+* **Architected** a scalable, real-time system using **WebSocket** for instant 1:1 & Group messaging, and **WebRTC** for P2P video calling.
+* **Engineered** an AI-powered moderation and assistance layer using the **Gemini API** for real-time grammar correction and explicit content flagging.
+* **Implemented** a robust authentication system (Email/JWT & Google OAuth) and enhanced UX with rich features like link detection, online status alerts, and new message ringtones/notifications.
+* **Optimized** database performance by implementing query parallelization and server-side caching, achieving a **40% reduction in response time**.
 * **[Live Demo](https://chat-application-henna-iota.vercel.app/)**
 
 #### 2. Multiplayer Game Portal
-A web portal for classic games featuring real-time multiplayer and a challenging AI.
-* Developed Chess and Tic-Tac-Toe with a **Minimax AI** opponent.
-* Integrated **Socket.IO** for seamless, real-time multiplayer functionality.
+A web portal for classic games featuring a challenging AI and real-time multiplayer.
+* **Engineered** a challenging AI opponent by implementing the **Minimax algorithm** for Chess and Tic-Tac-Toe.
+* **Designed** and implemented a real-time, event-driven multiplayer engine using **Socket.IO** for seamless, low-latency gameplay.
 * **[Live Demo](https://game-application-blond.vercel.app/)**
 
 ---
 
 ### 🏆 Competitive Programming
 
-* **LeetCode:** Top **2%** (Rating 2050) | **1700+** Problems Solved
-* **CodeChef:** 4-Star (Rating 1850)
-* **Codeforces:** Specialist (Rating 1461)
+My strong foundation in algorithms and data structures is demonstrated by my performance on global platforms:
+
+* **LeetCode:** Top **2%** (Rating **2050**) | **1000+** Problems Solved
+* **CodeChef:** **4-Star** (Rating **1850**)  | **200+** Problems Solved
+* **Codeforces:** **Specialist** (Rating **1461**) | **1100+** Problems Solved
+* **GeeksForGeeks:**| **250+** Problems Solved
 
 ---
 
