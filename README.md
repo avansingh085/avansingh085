@@ -57,9 +57,9 @@ A web portal for classic games featuring a challenging AI and real-time multipla
 
 My strong foundation in algorithms and data structures is demonstrated by my performance on global platforms:
 
-* **LeetCode:** Top **2%** (Rating **2050**) | **1000+** Problems Solved **100+** contest
-* **CodeChef:** **4-Star** (Rating **1850**)  | **200+** Problems Solved **50+** contest
-* **Codeforces:** **Specialist** (Rating **1461**) | **1100+** Problems Solved **110+** contest
+* **LeetCode:** Top **2%** (Rating **2050**) | **1000+** Problems Solved | **100+** contest
+* **CodeChef:** **4-Star** (Rating **1850**)  | **200+** Problems Solved | **50+** contest
+* **Codeforces:** **Specialist** (Rating **1461**) | **1100+** Problems Solved | **110+** contest
 * **GeeksForGeeks:**| **250+** Problems Solved
 * 
 
