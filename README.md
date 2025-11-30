@@ -42,12 +42,12 @@ A high-throughput, low-latency messaging platform built for performance and real
 * **Architected** a scalable, real-time system using **WebSocket** for instant 1:1 & Group messaging, and **WebRTC** for P2P video calling.
 * **Engineered** an AI-powered moderation and assistance layer using the **Gemini API** for real-time grammar correction and explicit content flagging.
 * **Implemented** a robust authentication system (Email/JWT & Google OAuth) and enhanced UX with rich features like link detection, online status alerts, and new message ringtones/notifications.
-* **Optimized** database performance by implementing query parallelization and server-side caching, achieving a **40% reduction in response time**.
+* **Optimized** database performance by implementing query parallelization and server-side caching.
 * **[Live Demo](https://chat-application-henna-iota.vercel.app/)**
 
 #### 2. Multiplayer Game Portal
 A web portal for classic games featuring a challenging AI and real-time multiplayer.
-* **Engineered** a challenging AI opponent by implementing the **Minimax algorithm** for Chess and Tic-Tac-Toe.
+* **Engineered** a challenging  opponent by implementing the **Minimax algorithm** for Chess and Tic-Tac-Toe.
 * **Designed** and implemented a real-time, event-driven multiplayer engine using **Socket.IO** for seamless, low-latency gameplay.
 * **[Live Demo](https://game-application-blond.vercel.app/)**
 
