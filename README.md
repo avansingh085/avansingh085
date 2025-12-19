@@ -9,7 +9,7 @@
 
 ---
 
-### 🛠️ My Technology Stack
+### My Technology Stack
 
 * **Languages:** C++, JavaScript (ES6+), TypeScript
 * **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3
@@ -19,7 +19,7 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 #### 1. Real-Time Chat Application
 A high-throughput, low-latency messaging platform built for performance and real-time interaction.
@@ -37,7 +37,7 @@ A web portal for classic games featuring a challenging AI and real-time multipla
 
 ---
 
-### 🏆 Competitive Programming
+### Competitive Programming
 
 My strong foundation in algorithms and data structures is demonstrated by my performance on global platforms:
 
@@ -49,7 +49,7 @@ My strong foundation in algorithms and data structures is demonstrated by my per
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 ![Avan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=avansingh085&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
