@@ -1,21 +1,5 @@
 # Hi there, I'm Avan Singh 👋
 
-### Full-Stack Developer | Competitive Programmer
-
-I am a Full-Stack Developer (MERN) who thrives on solving complex challenges. My background in competitive programming provides me with a strong foundation in Data Structures, Algorithms, and System Optimization, which I leverage to build efficient, scalable, and robust web applications.
-
-My passion lies in solving complex problems, and I apply a deep understanding of **Data Structures, Algorithms, and System Optimization** to translate complex requirements into clean, user-friendly, and impactful code.
-
----
-
-### ⚡ Core Competencies
-
-* **Full-Stack Architecture:** Architecting end-to-end applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-* **Algorithmic Problem Solving:** Proven analytical skills demonstrated by **Top 2% ranking on LeetCode** (2000+ problems).
-* **System Optimization:** Expertise in database query parallelization, advanced caching strategies, and writing efficient, low-latency code.
-* **Real-Time Systems:** Proficient in building interactive, stateful applications using WebSockets, Socket.IO, and WebRTC.
-
----
 
 ### 📬 Connect with Me
 
