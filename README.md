@@ -1,7 +1,7 @@
 # Hi there, I'm Avan Singh 👋
 
 
-### 📬 Connect with Me
+###  Connect with Me
 
 [<img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>](https://www.linkedin.com/in/avansingh085)
 [<img src='https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>](https://github.com/avansingh085)
@@ -38,8 +38,6 @@ A web portal for classic games featuring a challenging AI and real-time multipla
 ---
 
 ### Competitive Programming
-
-My strong foundation in algorithms and data structures is demonstrated by my performance on global platforms:
 
 * **LeetCode:** Top **2%** (Rating **2050**) | **1000+** Problems Solved | **100+** contest
 * **CodeChef:** **4-Star** (Rating **1850**)  | **200+** Problems Solved | **50+** contest
