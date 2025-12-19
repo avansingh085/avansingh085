@@ -11,9 +11,9 @@
 
 ### My Technology Stack
 
-* **Languages:** C++, JavaScript (ES6+), TypeScript
+* **Languages:** C++, JavaScript (ES6+), TypeScript,java,python
 * **Frontend:** React.js, Redux, Tailwind CSS, HTML5, CSS3
-* **Backend:** Node.js, Express.js, Nest.js, RESTful APIs, WebSockets
+* **Backend:** Node.js, Express.js, Nest.js, RESTful APIs, WebSockets,Redis(Pub/Sub)
 * **Databases:** MongoDB, Redis, MySQL
 * **Tools & Platforms:** Git, GitHub, Docker, AWS (EC2), Postman, Joi
 
