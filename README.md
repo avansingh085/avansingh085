@@ -4,7 +4,7 @@
 ###  Connect with Me
 
 [<img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>](https://www.linkedin.com/in/avansingh085)
-[<img src='https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white' alt='GitHub'>](https://github.com/avansingh085)
+
 [<img src='https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email'>](mailto:avansingh085@gmail.com)
 
 ---
@@ -23,7 +23,7 @@
 
 #### 1. Real-Time Chat Application
 A high-throughput, low-latency messaging platform built for performance and real-time interaction.
-* **Architected** a scalable, real-time system using **WebSocket** for instant 1:1 & Group messaging, and **WebRTC** for P2P video calling.
+* **Architected**  real-time system using **WebSocket** for instant 1:1 & Group messaging, and **WebRTC** for P2P video calling.
 * **Engineered** an AI-powered moderation and assistance layer using the **Gemini API** for real-time grammar correction and explicit content flagging.
 * **Implemented** a robust authentication system (Email/JWT & Google OAuth) and enhanced UX with rich features like link detection, online status alerts, and new message ringtones/notifications.
 * **Optimized** database performance by implementing query parallelization and server-side caching.
