@@ -1,11 +1,6 @@
 # Hi there, I'm Avan Singh 👋
 
 
-###  Connect with Me
-
-[<img src='https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn'>](https://www.linkedin.com/in/avansingh085)
-
-[<img src='https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Email'>](mailto:avansingh085@gmail.com)
 
 ---
 
